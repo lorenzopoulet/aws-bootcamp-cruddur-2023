@@ -1,7 +1,7 @@
 # Week 0 — Billing and Architecture
 ![cruddur](https://github.com/lorenzopoulet/aws-bootcamp-cruddur-2023/assets/141220777/d282f4ec-fe88-4bf6-99be-59ff65eea383)
 
-This is the starting week of the AWS cloud bootcamp challenge. This first week has started with a description of Billing and Architecture and how to think and design a [proper architecture](https://lucid.app/lucidchart/c4ed2918-2011-42a3-a27a-ed1a4b4877ab/edit?viewport_loc=-878%2C-395%2C3012%2C1479%2C0_0&invitationId=inv_6732949d-2b6f-42ae-a572-67b615c1e564).
+This is the starting week of the AWS cloud bootcamp challenge. This first week has started with a description of Billing and [Architecture](https://lucid.app/lucidchart/c4ed2918-2011-42a3-a27a-ed1a4b4877ab/edit?viewport_loc=-878%2C-395%2C3012%2C1479%2C0_0&invitationId=inv_6732949d-2b6f-42ae-a572-67b615c1e564) and how to think and design a [clean architecture](https://aws.amazon.com/fr/architecture/well-architected/).
 
 ### Creating CLI credentials and Billing Alarm 
 
@@ -25,7 +25,7 @@ tasks:
 
 ### Create a new User and Generate AWS Credentials
 
-- Go to (IAM Users Console](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/users) andrew create a new user
+- Go to [IAM Users Console](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/users) andrew create a new user
 - `Enable console access` for the user
 - Create a new `Admin` Group and apply `AdministratorAccess`
 - Create the user and go find and click into the user
